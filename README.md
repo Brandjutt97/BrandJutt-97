@@ -1,3 +1,7 @@
+
+![(bot-logo png)](https://github.com/user-attachments/assets/5908657e-90fd-4d08-b0a8-ba5c104caa55)
+
+
 <!-- Full Enhanced & Color-Boosted README (No Lines Missing , No Violations, Same Structure, Improved Colors, Fixed Deployment Section, Added Contact Not Available) -->
 
 <div align="center">
